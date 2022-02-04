@@ -1,2 +1,2 @@
 # JJT-Real-Estate-Investor-Program
-Real Estate Investment Engine for data exploration with robust interactive visual presentation. 
+# JJT Real Estate Investor program was created within a PyViz based enviornment to perform data exploration in specific real estate markets and provide a robust interactive visual presentation allowing investors to identify investment opportunities. 
