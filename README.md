@@ -1,5 +1,4 @@
-
-# JJT Real Estate Investor program was created within a PyViz enviornment to perform data exploration in the San Francisco real estate market providing a robust interactive visual presentation aiding investors with a clear view of new investment opportunities. 
+# This JJT Real Estate Investor program was created within a PyViz environment to perform data exploration in the San Francisco real estate market providing a robust interactive visual presentation aiding investors with a clear view of new investment opportunities. 
 
 ## Background
 
@@ -15,13 +14,13 @@ A new Real Estate Investment division was requested to provide customers with a 
 
 
 
-### Rental Analysis Dashboard was created usingn python, in an ancaonda pyviz enviornment. 
+### Rental Analysis Dashboard was created in python, in an anaconda pyviz environment. 
 
 
 
 #### Housing Units Per Year
 
-A calculation the number of housing units per year and visualize the results as a bar chart using the Pandas plot function.
+A calculation of the number of housing units per year and visualize the results as a bar chart using the Pandas plot function.
 
 Note: By default, the limits auto-scale to the data. However, it is hard to see the difference between the yearly data. In the optional challenge, you can use the min, max, and standard deviation of the data to manually scale the y limits of the plot.
 
@@ -44,7 +43,7 @@ In this section, we determined the average sales price per year and the average 
  
 #### Average Prices By Neighborhood
 
-In this section, we applied hvplot to create two interactive visulizations of average prices with a dropdown selector for the neighborhood. The first visualization will be a line plot showing the trend of average price per square foot over time for each neighborhood.  The second will be a line plot showing the trend of average montly rent over time for each neighborhood.
+In this section, we applied hvplot to create two interactive visualizations of average prices with a dropdown selector for the neighborhood. The first visualization will be a line plot showing the trend of average price per square foot over time for each neighborhood.  The second will be a line plot showing the trend of average monthly rent over time for each neighborhood.
 
 
 
@@ -87,6 +86,5 @@ Using the provided DataFrame to create the following visualizations:
 ---
 
 ### Dashboard
-
 
 
